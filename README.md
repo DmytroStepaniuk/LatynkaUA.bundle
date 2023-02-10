@@ -13,7 +13,7 @@ git clone ...
 Do dyrektoriji
 
 ```bash
-cd ~Library/Keyboard\ Layouts
+cd ~/Library/Keyboard\ Layouts
 ```
 
 # Detal'niše pro abektu
