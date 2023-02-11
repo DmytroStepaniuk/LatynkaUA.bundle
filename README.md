@@ -40,7 +40,7 @@ Na moju dumku litera "ї" - unikal'na i prytamanna lyše ukraїns'kij abetci. Sh
 
 Sered bagat'oh avtors'kyh versij latynok možna znajty taki varianty jak:
 
-| Ukrajins'ka kyrylyčna abetka   | [Проєкт української латинки Максима Прудеуса](https://ukr-latynka.org) | [latynka.org.ua](https://latynka.org.ua/?page_id=118) | [Na Chasi](https://nachasi.com/manifest) | [Живиця](https://drive.google.com/drive/folders/1ee_JCJxq4fp8ZRsCWMzYya-IZbXfN1Gi) |
+| Ukrajins'ka kyrylyčna abetka   | [Проєкт української латинки Максима Прудеуса](https://ukr-latynka.org) | [latynka.org.ua](https://latynka.org.ua/?page_id=118) | [Na Chasi](https://nachasi.com/manifest) | [Живиця (Mikola Akbal)](https://drive.google.com/drive/folders/1ee_JCJxq4fp8ZRsCWMzYya-IZbXfN1Gi) |
 |:---:|:-----:|:-----:|:-----:|:----------:|
 | Я я | Ja ja | Â â   | Ja ja | Ă ă        |
 | Ї ї | Ji ji | Ї ї   | Ї ї   | Ĭ ĭ        |
