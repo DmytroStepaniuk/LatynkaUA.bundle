@@ -25,3 +25,7 @@ cd ~/Library/Keyboard\ Layouts
 Dlja zručnosti perehodu na latynku bulo obrano kyrylyčnu rozkladku klaviatury jaka drukuje latynkoju.
 
 ![Keyboard](./readme/keyboard.png "Klaviatura")
+
+# Čy potribno zalyšaty literu "ї"
+
+Na moju dumku litera "ї" - unikal'na i prytamanna lyše ukraїns'kij abetci. Shožogo zvuku nemaje u slovah "Havaii" ni u slovi "naive" - u takyh slovah zvučyt' podovžena "ee"(i).
