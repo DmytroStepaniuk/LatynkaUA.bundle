@@ -19,3 +19,9 @@ cd ~/Library/Keyboard\ Layouts
 # Detal'niše pro abektu
 
 ![Ukrajins'ka latynka](./readme/Abetka_1.jpg "Abetka")
+
+# Jak vygljadaje klaviatura
+
+Dlja zručnosti perehodu na latynku bulo obrano kyrylyčnu rozkladku klaviatury jaka drukuje latynkoju.
+
+![Keyboard](./readme/keyboard.png "Klaviatura")
