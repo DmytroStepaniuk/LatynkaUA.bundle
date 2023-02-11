@@ -53,5 +53,7 @@ Sered bagat'oh avtors'kyh versij latynok možna znajty taki varianty jak:
 | Й й | J j   | J j   | J j   | Y y        |
 | Ч ч | Č č   | Č č   | Č č   | Ç ç        |
 
+## Tak ščo obraty?
 
+Usi sučasni movy ruhajut'sj u bik sproščennja, tomu nemaj nijkogo sensu korystuvatys' terminamy v styli [breve](https://en.wikipedia.org/wiki/Breve), [inverted breve](https://en.wikipedia.org/wiki/Inverted_breve), [cedilla](https://en.wikipedia.org/wiki/Cedilla), [diacritic](https://en.wikipedia.org/wiki/Diaeresis_(diacritic)) i tym bil'še literamy iz "Latin Extended-A/B/C/D/E/F..."
 
