@@ -20,7 +20,7 @@ Do dyrektoriji
 cd ~/Library/Keyboard\ Layouts
 ```
 
-Dali potribngo aby perezavantažyty systemu abo prosto zrobyty "Log out". 
+Dali potribngo abo perezavantažyty systemu abo prosto zrobyty "Log out". 
 
 Ščasty!
 
