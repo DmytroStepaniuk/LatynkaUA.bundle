@@ -20,6 +20,10 @@ Do dyrektoriji
 cd ~/Library/Keyboard\ Layouts
 ```
 
+Dali potribngo aby perezavantažyty systemu abo prosto zrobyty "Log out". 
+
+Ščasty!
+
 # Detal'niše pro abektu
 
 ![Ukrajins'ka latynka](./readme/Abetka_1.jpg "Abetka")
