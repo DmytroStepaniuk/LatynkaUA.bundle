@@ -2,6 +2,8 @@
 
 Ce klaviatura dlja MacOS zasnovana na projekti ukrajins'koji latynky ščo bazujet'sja na ideji [Maksyma Prudeusa](https://ukr-latynka.org). 
 
+Jakščo Vy koly-nebud' hotily sprobuvaty ukrajins'ku latynku - cej repozytorij stvorenyj same dlja taky cilej 🙂
+
 # Čym horoša cja versija latynky?
 
 Vse prosto - vona najprostiša sered isnujučyh.
@@ -33,6 +35,8 @@ Dali potribngo abo perezavantažyty systemu abo prosto zrobyty "Log out".
 Dlja zručnosti perehodu na latynku bulo obrano kyrylyčnu rozkladku klaviatury jaka drukuje latynkoju.
 
 ![Keyboard](./readme/keyboard.png "Klaviatura")
+
+![Keyboard](./readme/keyboard_2.png "Klaviatura")
 
 # Rozdumy
 
